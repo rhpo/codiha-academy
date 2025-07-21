@@ -4,8 +4,8 @@ export const PRIMARY_NAME = 'CODIHA™';
 export const BRANCH_NAME = 'Academy';
 export const BRAND_NAME = `${PRIMARY_NAME} ${BRANCH_NAME}`;
 export const BRAND_SLOGAN: LanguageData = {
-	en: `The ${BRAND_NAME} ${BRANCH_NAME}, your gateway to gaining the skills you need to succeed in the digital world.`,
-	fr: `L'${BRAND_NAME} ${BRANCH_NAME}, votre porte d'entrée pour acquérir les compétences nécessaires à votre réussite dans le monde numérique.`
+	en: `Your gateway to gaining the skills you need to succeed in the digital world.`,
+	fr: `Votre porte d'entrée pour acquérir les compétences nécessaires à votre réussite dans le monde numérique.`
 };
 
 export const BRAND_DESCRIPTION: LanguageData = {
